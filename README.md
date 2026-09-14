@@ -63,8 +63,9 @@ RFM segmentation reveals distinct customer behaviors and enables more targeted m
 
 ---
 
-## Dashboard:
-Link: [Dashboard](https://public.tableau.com/app/profile/gracenc/viz/RFMSegmentationMarketingCampaignAnalyticsDashboard/DB)
+## Dashboard & PPT:
+* Dashboard: [Dashboard](https://public.tableau.com/app/profile/gracenc/viz/RFMSegmentationMarketingCampaignAnalyticsDashboard/DB)
+* PPT: [PPT](https://canva.link/clhq05husomoq2b)
 
 ---
 
