@@ -14,9 +14,9 @@ Data Source: [Data Source](https://www.kaggle.com/datasets/rodsaldanha/arketing-
 ---
 
 ## Business Understanding
-The company is a multichannel supermarket retailer operating through website, catalog, and offline stores. Although rich customer data is available, it has not been fully utilized to support customer segmentation and targeted marketing strategies.
+The company is a multichannel supermarket retailer operating through website, catalog, and offline stores. Although rich customer data is available, it has not been fully utilized to be used for data driven strategies.
 
-This project applies data-driven analysis to **understand customer purchasing behavior, identify high-value customers, and improve marketing effectiveness, retention, and customer engagement**.
+This project applies data-driven analysis to **understand customer chaeacteristics and purchasing behavior, identify high-value customers, and improve marketing effectiveness and customer engagement**.
 
 ---
 
